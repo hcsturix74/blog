@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: An insomniac nightly surfer's blog
 ---
 
